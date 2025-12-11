@@ -1,4 +1,5 @@
-## Hi there 👋
+## hello :D
+I'm currently working on the [RuseHAC Website](https://github.com/legendary1873/RuseHAC)
 
 <!--
 **legendary1873/legendary1873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

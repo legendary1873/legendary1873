@@ -1,5 +1,9 @@
 ## hello :D
-I'm currently working on the [RuseHAC Website](https://github.com/legendary1873/RuseHAC)
+i'm currently working on the [RuseHAC Website](https://github.com/legendary1873/RuseHAC)
+
+### how to reach me:
+- email: [jiayu.hu1@education.nsw.gov.au](jiayu.hu1@education.nsw.gov.au)
+- insta: [jiayuhu1873](https://www.instagram.com/jiayuhu1873/)
 
 <!--
 **legendary1873/legendary1873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

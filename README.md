@@ -1,5 +1,6 @@
 ## hello :D
-i'm currently working on the [RuseHAC Website](https://github.com/legendary1873/RuseHAC)
+jrahs software engineering student
+i'm currently working on making [the unsecure pwa](https://github.com/TempeHS/The_Unsecure_PWA) secure
 
 ### how to reach me:
 - email: [jiayu.hu1@education.nsw.gov.au](jiayu.hu1@education.nsw.gov.au)
